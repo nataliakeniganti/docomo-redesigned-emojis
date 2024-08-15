@@ -1,2 +1,2 @@
-# docomo-redesigned-emojis
+# ntt-docomo-redesigned-emojis
 redesigned docomo emoji
